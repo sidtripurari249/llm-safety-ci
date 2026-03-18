@@ -14,5 +14,3 @@ from deployment.
 ## Status
 Work in progress — building alongside AI Security Engineer learning path.
 ```
-## Test with Shruthi
-Working on robot framework understanding
